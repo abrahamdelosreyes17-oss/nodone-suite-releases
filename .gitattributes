@@ -1,0 +1,3 @@
+# suite.json and its signature must reach GitHub byte for byte:
+# no line-ending conversion, ever.
+* -text

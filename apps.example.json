@@ -1,0 +1,25 @@
+{
+  "apps": [
+    {
+      "id": "tala",
+      "version": "1.0.0",
+      "link": [1, 2],
+      "installer_file": "D:/NodOneTest/release/NodOneTala-Setup-v1.0.0.exe"
+    },
+    {
+      "id": "nodone",
+      "version": "3.4.0",
+      "needs_link": 2,
+      "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
+      "installer_file": "D:/NodOneTest/release/NodOne-Setup-v3.4.0.exe",
+      "notes": "Tala opens on the chat you were in."
+    },
+    {
+      "id": "gantt",
+      "version": "1.11.0",
+      "needs_link": 2,
+      "app_id": "{F7BEB33D-B7EC-4129-A1C2-976E9BB6EA6D}",
+      "installer_file": "D:/NodOneTest/release/NodOneGantt-Setup-v1.11.0.exe"
+    }
+  ]
+}
