@@ -43,7 +43,7 @@ APPS = {
     "nodone": ("nodone-releases", "NodOne-Setup-v{v}.exe"),
     "gantt": ("nodone-gantt-releases", "NodOneGantt-Setup-v{v}.exe"),
     "tala": ("nodone-tala-releases", "NodOneTala-Setup-v{v}.exe"),
-    "suite": ("nodone-suite", "NodOneSuite-Setup-v{v}.exe"),
+    "suite": ("nodone-suite-releases", "NodOneSuite-Setup-v{v}.exe"),
 }
 VERSION_RE = re.compile(r"\d{1,4}\.\d{1,4}\.\d{1,4}")
 SHA_RE = re.compile(r"[0-9a-f]{64}")
