@@ -14,7 +14,7 @@ that app's own releases page.
 ## How the apps read it
 
 NodOne (from 3.4.0) and Gantt (from 1.11.0) fetch
-`https://raw.githubusercontent.com/abrahamdelosreyes17-oss/nodone-suite/main/suite.json` and `.sig` as plain files
+`https://raw.githubusercontent.com/abrahamdelosreyes17-oss/nodone-suite-releases/main/suite.json` and `.sig` as plain files
 (no GitHub API, which allows only 60 checks an hour per network). They:
 
 1. trust the list only when the signature verifies against the release key built into them (the same key and
@@ -64,8 +64,8 @@ signature.
 
 ## Setting it up (once, Abraham)
 
-1. On GitHub, create the public repo `abrahamdelosreyes17-oss/nodone-suite` (no README, no licence: empty).
-2. Here: `git remote add origin https://github.com/abrahamdelosreyes17-oss/nodone-suite.git`, then build the first
+1. The list lives in the PUBLIC repo `abrahamdelosreyes17-oss/nodone-suite-releases` (branch main), beside the Suite's installers; `nodone-suite` on GitHub is the Suite app's PRIVATE source (a private repo's raw files give 404).
+2. Here: `git remote add origin https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases.git`, then build the first
    list as above and `git push -u origin main`.
 3. The signing key stays where it is today, outside every repo
    (`%USERPROFILE%\.nodone-release\release-signing-key.pem`, backed up off the laptop). Nothing new to make.
