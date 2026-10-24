@@ -1,0 +1,48 @@
+{
+  "suite": 1,
+  "published": "2026-10-24T08:34:50Z",
+  "apps": [
+    {
+      "id": "nodone",
+      "version": "3.4.0",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.0/NodOne-Setup-v3.4.0.exe",
+      "sha256": "7feb6840af849e06c6e387fc8739bb8303bbc13af99b732b130e49b77906321a",
+      "size": 57969358,
+      "notes": "Tala, the assistant, inside NodOne. A Today page, Notebook notes and richer notes.",
+      "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
+      "needs_link": 1
+    },
+    {
+      "id": "gantt",
+      "version": "1.11.0",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v1.11.0/NodOneGantt-Setup-v1.11.0.exe",
+      "sha256": "9f6d4c32bfc2022cbcca697f80262e7810cdb1e62f030a51303d724554843a8c",
+      "size": 46804928,
+      "notes": "Critical path keeps its arrows. Works with Tala.",
+      "app_id": "{F7BEB33D-B7EC-4129-A1C2-976E9BB6EA6D}",
+      "needs_link": 1
+    },
+    {
+      "id": "tala",
+      "version": "1.0.0",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.0/NodOneTala-Setup-v1.0.0.exe",
+      "sha256": "d792affaf0fbb30261dbb08162fc68b016bbbfd662aab9fd5a88ba13834e3383",
+      "size": 56446910,
+      "notes": "The assistant for NodOne and Gantt.",
+      "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
+      "link": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "suite",
+      "version": "1.0.0",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.0/NodOneSuite-Setup-v1.0.0.exe",
+      "sha256": "1c060cfc79cb41420e4b6ad4af5e2344b630e18a4d0d2483dcd659c14981f531",
+      "size": 45173786,
+      "notes": "Installs and updates NodOne, Gantt and Tala.",
+      "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
+    }
+  ]
+}
