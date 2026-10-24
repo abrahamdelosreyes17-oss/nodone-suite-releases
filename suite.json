@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-10-24T09:04:20Z",
+  "published": "2026-10-24T20:51:37Z",
   "apps": [
     {
       "id": "nodone",
@@ -37,11 +37,11 @@
     },
     {
       "id": "suite",
-      "version": "1.0.0",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.0/NodOneSuite-Setup-v1.0.0.exe",
-      "sha256": "1c060cfc79cb41420e4b6ad4af5e2344b630e18a4d0d2483dcd659c14981f531",
-      "size": 45173786,
-      "notes": "Installs and updates NodOne, Gantt and Tala.",
+      "version": "1.0.1",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.1/NodOneSuite-Setup-v1.0.1.exe",
+      "sha256": "9c4992667da7ba019fefb18b4743df5906e6a690b498dc51d2ba61f039e96f38",
+      "size": 45192378,
+      "notes": "Updates apps wherever they are installed, asking Windows when it must. Download for a missing app.",
       "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
     }
   ]
