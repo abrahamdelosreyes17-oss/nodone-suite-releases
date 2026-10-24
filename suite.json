@@ -1,13 +1,13 @@
 {
   "suite": 1,
-  "published": "2026-10-24T08:34:50Z",
+  "published": "2026-10-24T09:04:20Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "3.4.0",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.0/NodOne-Setup-v3.4.0.exe",
-      "sha256": "7feb6840af849e06c6e387fc8739bb8303bbc13af99b732b130e49b77906321a",
-      "size": 57969358,
+      "version": "3.4.1",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.1/NodOne-Setup-v3.4.1.exe",
+      "sha256": "127b6ee6f3b3579075ed4c9748ef4082e8da287aeaba0825769425610fcb622a",
+      "size": 57967087,
       "notes": "Tala, the assistant, inside NodOne. A Today page, Notebook notes and richer notes.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
