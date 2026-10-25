@@ -53,6 +53,8 @@ write_apps([
     {"id": "nodone", "version": "3.4.0", "installer_file": str(installer), "notes": "New."},
     {"id": "gantt", "version": "1.11.0", "sha256": "A" * 64},
     {"id": "tala", "version": "1.0.0", "sha256": "b" * 64, "link": [1, 2]},
+    {"id": "tools", "version": "1.0.0", "sha256": "c" * 64},
+    {"id": "coordinates", "version": "3.0.0", "sha256": "d" * 64, "app_id": "{B8E3F4A2-9D1C-4E7B-A5F8-3C2D9E6B1A4F}"},
 ])
 out = tmp / "out"
 t0 = datetime(2026, 11, 2, 9, 0, 0, tzinfo=timezone.utc)
@@ -64,6 +66,10 @@ nod = data["apps"][0]
 check("sha256 and size from the installer file", nod["size"] == 1002 and len(nod["sha256"]) == 64)
 check("installer link built from the app's own repo",
       nod["installer"] == "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.0/NodOne-Setup-v3.4.0.exe")
+check("Tools' link is on its own releases repo",
+      data["apps"][3]["installer"] == "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.0/NodOneTools-Setup-v1.0.0.exe")
+check("Coordinates' link is the OLD app's repo and installer name (her 2.6.1 updater looks there)",
+      data["apps"][4]["installer"] == "https://github.com/abrahamdelosreyes17-oss/coordinate-converter-releases/releases/download/v3.0.0/CoordinateConverter-Setup-v3.0.0.exe")
 check("sha256 kept lower case", data["apps"][1]["sha256"] == "a" * 64)
 check("Tala's link numbers kept as data", data["apps"][2]["link"] == [1, 2])
 check("written with LF only", b"\r" not in body and body.endswith(b"\n"))

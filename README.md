@@ -13,7 +13,7 @@ that app's own releases page.
 
 ## How the apps read it
 
-NodOne (from 3.4.0) and Gantt (from 1.11.0) fetch
+NodOne (from 3.4.0), Gantt (from 1.11.0), NodOne Tools (from 1.0.0) and NodOne Coordinates (from 3.0.0) fetch
 `https://raw.githubusercontent.com/abrahamdelosreyes17-oss/nodone-suite-releases/main/suite.json` and `.sig` as plain files
 (no GitHub API, which allows only 60 checks an hour per network). They:
 
@@ -26,7 +26,10 @@ NodOne (from 3.4.0) and Gantt (from 1.11.0) fetch
 5. accept only an installer link on that app's own releases repo.
 
 The old lists stay alive: every NodOne release still goes into `nodone-releases` (with its signed `releases.json`)
-and every Gantt release onto `nodone-gantt-releases`, so an old copy anywhere keeps updating.
+and every Gantt release onto `nodone-gantt-releases`, so an old copy anywhere keeps updating. Coordinates is the old
+Coordinate Converter: its releases stay on `coordinate-converter-releases` with the old installer name
+(`CoordinateConverter-Setup-v3.0.0.exe`), because her installed 2.6.1 looks there with its own, older updater (no list,
+no hash). Tools: `nodone-tools-releases`.
 
 ## The format
 
@@ -42,7 +45,7 @@ and every Gantt release onto `nodone-gantt-releases`, so an old copy anywhere ke
 }
 ```
 
-`id` is one of `nodone`, `gantt`, `tala`, `suite`. `link` (Tala) and `needs_link` (the apps) are the link
+`id` is one of `nodone`, `gantt`, `tala`, `suite`, `tools`, `coordinates`. `link` (Tala) and `needs_link` (the apps) are the link
 versions of rule 4; NodOne and Gantt only carry them for now. `app_id` is the app's permanent Windows ID.
 
 ## Publishing a new list (Abraham)
