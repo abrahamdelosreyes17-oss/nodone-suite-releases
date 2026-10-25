@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-10-25T15:02:23Z",
+  "published": "2026-10-25T17:21:48Z",
   "apps": [
     {
       "id": "nodone",
@@ -36,12 +36,21 @@
       ]
     },
     {
+      "id": "tools",
+      "version": "1.0.0",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.0/NodOneTools-Setup-v1.0.0.exe",
+      "sha256": "43c03328a42ee9eb28eb30dae1d68071259da2a5d1fd26e187bcd2ccbdc92300",
+      "size": 82322328,
+      "notes": "Coordinates, PDF, Lot plotter and Batch renamer in one app.",
+      "app_id": "{1C4FAC06-D022-4770-A85C-2A7AA30EDF78}"
+    },
+    {
       "id": "suite",
-      "version": "1.0.3",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.3/NodOneSuite-Setup-v1.0.3.exe",
-      "sha256": "e8f6822bacd8edc6ea327bf6e4d9ea02543b32895beb25370a38fe95a887df24",
-      "size": 45198866,
-      "notes": "Starts quietly with Windows and keeps Gantt and Tala up to date, never while they are open.",
+      "version": "1.0.4",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.4/NodOneSuite-Setup-v1.0.4.exe",
+      "sha256": "8a985792ffd4f52ec22315479065f648c88108d70e1721ef9db78026d2eba985",
+      "size": 45200123,
+      "notes": "Shows NodOne Tools and keeps it up to date.",
       "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
     }
   ]
