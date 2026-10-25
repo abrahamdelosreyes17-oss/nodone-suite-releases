@@ -1,34 +1,34 @@
 {
   "suite": 1,
-  "published": "2026-10-24T23:36:30Z",
+  "published": "2026-10-25T15:02:23Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "3.4.2",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.2/NodOne-Setup-v3.4.2.exe",
-      "sha256": "4769de4d184dfd59278e171637f9dbf508ef6b74a7f4fd9ced08517f7126c18d",
-      "size": 60725060,
-      "notes": "Plan my day with Tala. Today brings over yesterday when you choose. Notes tables.",
+      "version": "3.4.3",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.3/NodOne-Setup-v3.4.3.exe",
+      "sha256": "7627e4470d789fcb56c6c2127cc714aa4ccd899f9a9074c93cad8730f2d775a8",
+      "size": 60867496,
+      "notes": "Long template names stay readable. The scrollbar shows only while you scroll.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
     {
       "id": "gantt",
-      "version": "1.11.1",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v1.11.1/NodOneGantt-Setup-v1.11.1.exe",
-      "sha256": "4597e820134d4f1675d2b5428ee3692a5bcf5c56373c41d5a54194207052e2aa",
-      "size": 46725345,
-      "notes": "Problem reports reach Abraham.",
+      "version": "1.11.2",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v1.11.2/NodOneGantt-Setup-v1.11.2.exe",
+      "sha256": "decf98d87d37e87091517a1a9b04bcc0d31342225687de807331825cb06d019a",
+      "size": 46806891,
+      "notes": "Gantt waits for its update to finish before opening.",
       "app_id": "{F7BEB33D-B7EC-4129-A1C2-976E9BB6EA6D}",
       "needs_link": 1
     },
     {
       "id": "tala",
-      "version": "1.0.1",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.1/NodOneTala-Setup-v1.0.1.exe",
-      "sha256": "93a4fc75d6690ff7d8a950bd3bd8ba9a3e77b426817b2cbe40923302908f57fd",
-      "size": 56672708,
-      "notes": "Plan my day: one plan card and a checklist that ticks both ways.",
+      "version": "1.0.2",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.2/NodOneTala-Setup-v1.0.2.exe",
+      "sha256": "5e5245a3bae033f8025e447de4e8654ac62b5d00bb402d4a35db17ce3babf11c",
+      "size": 56668348,
+      "notes": "No Windows Firewall prompt. Tala can put things on your Today page.",
       "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
       "link": [
         1,
@@ -37,11 +37,11 @@
     },
     {
       "id": "suite",
-      "version": "1.0.2",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.2/NodOneSuite-Setup-v1.0.2.exe",
-      "sha256": "26f329cb0fda98bcd55fe36983099dcd397ca49a887f8295961851ea0fe4e837",
-      "size": 45192157,
-      "notes": "Problem reports reach Abraham.",
+      "version": "1.0.3",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.3/NodOneSuite-Setup-v1.0.3.exe",
+      "sha256": "e8f6822bacd8edc6ea327bf6e4d9ea02543b32895beb25370a38fe95a887df24",
+      "size": 45198866,
+      "notes": "Starts quietly with Windows and keeps Gantt and Tala up to date, never while they are open.",
       "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
     }
   ]
