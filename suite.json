@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-10-25T18:32:23Z",
+  "published": "2026-10-25T22:10:30Z",
   "apps": [
     {
       "id": "nodone",
@@ -37,11 +37,11 @@
     },
     {
       "id": "tools",
-      "version": "1.0.1",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.1/NodOneTools-Setup-v1.0.1.exe",
-      "sha256": "038fe4d5aa8b96460fb153fb162a2d0567cbdea6db422a1348570c1cdb0b71ef",
-      "size": 82323067,
-      "notes": "Barangay names on the map. Add monuments by hand.",
+      "version": "1.0.2",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.2/NodOneTools-Setup-v1.0.2.exe",
+      "sha256": "3d7e51dea4606dc988fbf2c36593ddd2d6ae539b7950cd3a680336f51de87a4e",
+      "size": 63858819,
+      "notes": "PDFs open again, a cleaner Home, and tidier pages.",
       "app_id": "{1C4FAC06-D022-4770-A85C-2A7AA30EDF78}"
     },
     {
