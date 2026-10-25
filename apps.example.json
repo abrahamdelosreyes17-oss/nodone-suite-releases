@@ -26,12 +26,6 @@
       "version": "1.0.0",
       "app_id": "{1C4FAC06-D022-4770-A85C-2A7AA30EDF78}",
       "installer_file": "D:/NodOneTest/release/NodOneTools-Setup-v1.0.0.exe"
-    },
-    {
-      "id": "coordinates",
-      "version": "3.0.0",
-      "app_id": "{B8E3F4A2-9D1C-4E7B-A5F8-3C2D9E6B1A4F}",
-      "installer_file": "D:/NodOneTest/release/CoordinateConverter-Setup-v3.0.0.exe"
     }
   ]
 }

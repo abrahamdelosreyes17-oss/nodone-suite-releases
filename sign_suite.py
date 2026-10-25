@@ -45,8 +45,6 @@ APPS = {
     "tala": ("nodone-tala-releases", "NodOneTala-Setup-v{v}.exe"),
     "suite": ("nodone-suite-releases", "NodOneSuite-Setup-v{v}.exe"),
     "tools": ("nodone-tools-releases", "NodOneTools-Setup-v{v}.exe"),
-    # Coordinate Converter 2.6.1 becomes this app: same releases repo, same installer name, the old AppId.
-    "coordinates": ("coordinate-converter-releases", "CoordinateConverter-Setup-v{v}.exe"),
 }
 VERSION_RE = re.compile(r"\d{1,4}\.\d{1,4}\.\d{1,4}")
 SHA_RE = re.compile(r"[0-9a-f]{64}")
