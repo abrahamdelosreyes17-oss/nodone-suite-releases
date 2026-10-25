@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-10-25T17:21:48Z",
+  "published": "2026-10-25T18:00:17Z",
   "apps": [
     {
       "id": "nodone",
@@ -46,11 +46,11 @@
     },
     {
       "id": "suite",
-      "version": "1.0.4",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.4/NodOneSuite-Setup-v1.0.4.exe",
-      "sha256": "8a985792ffd4f52ec22315479065f648c88108d70e1721ef9db78026d2eba985",
-      "size": 45200123,
-      "notes": "Shows NodOne Tools and keeps it up to date.",
+      "version": "1.0.5",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.5/NodOneSuite-Setup-v1.0.5.exe",
+      "sha256": "9e601293ca71633417ac944f1c6eb7cafd40e40a3cd36a9910e42997eb35369f",
+      "size": 45198528,
+      "notes": "The Suite opens again after it has been waiting in the background.",
       "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
     }
   ]
