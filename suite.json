@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-10-25T22:10:30Z",
+  "published": "2026-10-25T23:42:01Z",
   "apps": [
     {
       "id": "nodone",
@@ -37,11 +37,11 @@
     },
     {
       "id": "tools",
-      "version": "1.0.2",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.2/NodOneTools-Setup-v1.0.2.exe",
-      "sha256": "3d7e51dea4606dc988fbf2c36593ddd2d6ae539b7950cd3a680336f51de87a4e",
-      "size": 63858819,
-      "notes": "PDFs open again, a cleaner Home, and tidier pages.",
+      "version": "1.0.3",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.3/NodOneTools-Setup-v1.0.3.exe",
+      "sha256": "8be24fd30212ebd909cf3eedba5c42fbfa52a03fb293b8f7377d55294558ef04",
+      "size": 63868028,
+      "notes": "Buttons under the options, files you can take off the list, and Save As every time.",
       "app_id": "{1C4FAC06-D022-4770-A85C-2A7AA30EDF78}"
     },
     {
