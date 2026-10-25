@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-10-25T18:00:17Z",
+  "published": "2026-10-25T18:32:23Z",
   "apps": [
     {
       "id": "nodone",
@@ -37,11 +37,11 @@
     },
     {
       "id": "tools",
-      "version": "1.0.0",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.0/NodOneTools-Setup-v1.0.0.exe",
-      "sha256": "43c03328a42ee9eb28eb30dae1d68071259da2a5d1fd26e187bcd2ccbdc92300",
-      "size": 82322328,
-      "notes": "Coordinates, PDF, Lot plotter and Batch renamer in one app.",
+      "version": "1.0.1",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.1/NodOneTools-Setup-v1.0.1.exe",
+      "sha256": "038fe4d5aa8b96460fb153fb162a2d0567cbdea6db422a1348570c1cdb0b71ef",
+      "size": 82323067,
+      "notes": "Barangay names on the map. Add monuments by hand.",
       "app_id": "{1C4FAC06-D022-4770-A85C-2A7AA30EDF78}"
     },
     {
