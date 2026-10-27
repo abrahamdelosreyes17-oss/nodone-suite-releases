@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-10-27T02:07:45Z",
+  "published": "2026-10-27T03:01:05Z",
   "apps": [
     {
       "id": "nodone",
@@ -28,7 +28,7 @@
       "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.3/NodOneTala-Setup-v1.0.3.exe",
       "sha256": "c286da5f8561bbbfab07501429b48090a45451f43500d057025cbc8cddef3038",
       "size": 56676963,
-      "notes": "When a reply fails, Tala says why: your internet, the relay or Claude.",
+      "notes": "When a reply fails, Tala says why: your internet, the relay, or something else.",
       "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
       "link": [
         1,
@@ -46,11 +46,11 @@
     },
     {
       "id": "suite",
-      "version": "1.0.5",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.5/NodOneSuite-Setup-v1.0.5.exe",
-      "sha256": "9e601293ca71633417ac944f1c6eb7cafd40e40a3cd36a9910e42997eb35369f",
-      "size": 45198528,
-      "notes": "The Suite opens again after it has been waiting in the background.",
+      "version": "1.0.6",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.6/NodOneSuite-Setup-v1.0.6.exe",
+      "sha256": "7482f7f9ac70a7e95d29e24bc633c1b299b63c1b07cb7dbb3bb660b9c6126a23",
+      "size": 45213617,
+      "notes": "When an app is in the way of an update, the Suite can close it for you.",
       "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
     }
   ]
