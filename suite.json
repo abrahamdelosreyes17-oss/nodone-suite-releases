@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-10-26T00:02:13Z",
+  "published": "2026-10-27T02:07:45Z",
   "apps": [
     {
       "id": "nodone",
@@ -24,11 +24,11 @@
     },
     {
       "id": "tala",
-      "version": "1.0.2",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.2/NodOneTala-Setup-v1.0.2.exe",
-      "sha256": "5e5245a3bae033f8025e447de4e8654ac62b5d00bb402d4a35db17ce3babf11c",
-      "size": 56668348,
-      "notes": "No Windows Firewall prompt. Tala can put things on your Today page.",
+      "version": "1.0.3",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.3/NodOneTala-Setup-v1.0.3.exe",
+      "sha256": "c286da5f8561bbbfab07501429b48090a45451f43500d057025cbc8cddef3038",
+      "size": 56676963,
+      "notes": "When a reply fails, Tala says why: your internet, the relay or Claude.",
       "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
       "link": [
         1,
