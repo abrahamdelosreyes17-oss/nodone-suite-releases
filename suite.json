@@ -1,34 +1,34 @@
 {
   "suite": 1,
-  "published": "2026-10-31T02:32:51Z",
+  "published": "2026-10-31T07:35:29Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "3.4.4",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.4/NodOne-Setup-v3.4.4.exe",
-      "sha256": "b1e2a48bd6dab2a80a3b8303d7c13373051f3c7a668d74e4cc7f2fcebafe1e17",
-      "size": 60913217,
-      "notes": "Settings can send a request. Upload files of any size your disk has room for.",
+      "version": "3.4.5",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.5/NodOne-Setup-v3.4.5.exe",
+      "sha256": "835904a8ab52b3effd20b40455cc245abf29eee840da64637c981bfbfe97f4f3",
+      "size": 60916835,
+      "notes": "Problem reports now know which laptop they came from.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
     {
       "id": "gantt",
-      "version": "1.11.3",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v1.11.3/NodOneGantt-Setup-v1.11.3.exe",
-      "sha256": "071379e509e650f878bd635718c33cbacbaa80f96e81e31e99f48917eccc7cbd",
-      "size": 46829583,
-      "notes": "Settings can send a request. Clearer problem reports.",
+      "version": "1.11.4",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v1.11.4/NodOneGantt-Setup-v1.11.4.exe",
+      "sha256": "2908c3cbb6961f31a521d514e0bba3054eb9b21b45b32757b44d5d589db1a614",
+      "size": 46832926,
+      "notes": "Problem reports now know which laptop they came from.",
       "app_id": "{F7BEB33D-B7EC-4129-A1C2-976E9BB6EA6D}",
       "needs_link": 1
     },
     {
       "id": "tala",
-      "version": "1.0.5",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.5/NodOneTala-Setup-v1.0.5.exe",
-      "sha256": "ccc9a97f9bbff335f36ba8dc86c7a28bc709623dfbaf181bdc2cb911b5af4c15",
-      "size": 57004010,
-      "notes": "Files now live in your projects. Make your letterhead in Settings. Open in Tala works again.",
+      "version": "1.0.6",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.6/NodOneTala-Setup-v1.0.6.exe",
+      "sha256": "d1806a603f72ba413281595abfca54b8a14e6f10fc7708fa75f1a8c14d1b50dc",
+      "size": 57008826,
+      "notes": "Problem reports now know which laptop they came from.",
       "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
       "link": [
         1,
@@ -46,11 +46,11 @@
     },
     {
       "id": "suite",
-      "version": "1.0.7",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.7/NodOneSuite-Setup-v1.0.7.exe",
-      "sha256": "9d9e3d005015c33893ae3e7405885cc3e8692d91c6a82a6747a5ab3f5bef54d2",
-      "size": 45310791,
-      "notes": "Clearer problem reports.",
+      "version": "1.0.8",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.8/NodOneSuite-Setup-v1.0.8.exe",
+      "sha256": "de0cf5e9718603cc7d538ad23a4b2f6a221625931352dc7e4af6cacee961223e",
+      "size": 45317726,
+      "notes": "Installing an app into a folder that needs your admin Yes works again. Problem reports now know which laptop they came from.",
       "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
     }
   ]
