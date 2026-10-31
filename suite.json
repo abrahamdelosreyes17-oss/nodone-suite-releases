@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-10-30T20:56:14Z",
+  "published": "2026-10-31T02:32:51Z",
   "apps": [
     {
       "id": "nodone",
@@ -24,11 +24,11 @@
     },
     {
       "id": "tala",
-      "version": "1.0.4",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.4/NodOneTala-Setup-v1.0.4.exe",
-      "sha256": "ca51c6f4a9643e211479171cbe65455b32f7d1c2d37466c56d10415fadc48df1",
-      "size": 56984060,
-      "notes": "One Files page with projects and folders. Answers from other chats come back to yours.",
+      "version": "1.0.5",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.5/NodOneTala-Setup-v1.0.5.exe",
+      "sha256": "ccc9a97f9bbff335f36ba8dc86c7a28bc709623dfbaf181bdc2cb911b5af4c15",
+      "size": 57004010,
+      "notes": "Files now live in your projects. Make your letterhead in Settings. Open in Tala works again.",
       "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
       "link": [
         1,
