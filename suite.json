@@ -1,14 +1,14 @@
 {
   "suite": 1,
-  "published": "2026-10-31T07:35:29Z",
+  "published": "2026-10-31T08:20:16Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "3.4.5",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.5/NodOne-Setup-v3.4.5.exe",
-      "sha256": "835904a8ab52b3effd20b40455cc245abf29eee840da64637c981bfbfe97f4f3",
-      "size": 60916835,
-      "notes": "Problem reports now know which laptop they came from.",
+      "version": "3.4.6",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v3.4.6/NodOne-Setup-v3.4.6.exe",
+      "sha256": "2534e6c5b7fa03dfda20bc79dd4aaa29980f880e2f8626e78df287311203793c",
+      "size": 60916652,
+      "notes": "Old notes can be made into full notes, and Notebook notes can move to a project.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
