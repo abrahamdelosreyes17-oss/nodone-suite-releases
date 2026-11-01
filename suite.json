@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-11-01T06:43:21Z",
+  "published": "2026-11-01T11:49:04Z",
   "apps": [
     {
       "id": "nodone",
@@ -24,11 +24,11 @@
     },
     {
       "id": "tala",
-      "version": "1.0.7",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.7/NodOneTala-Setup-v1.0.7.exe",
-      "sha256": "64d24cfaefec998ac96733e8a48777bdc5b3c9ec478c685e67b02f662455e660",
-      "size": 57010192,
-      "notes": "Tala counts your allowance correctly now.",
+      "version": "1.0.8",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v1.0.8/NodOneTala-Setup-v1.0.8.exe",
+      "sha256": "121c4d04057393f92ba2408d89354efb96217dd3bba429e162beae8dab9ceed8",
+      "size": 57013515,
+      "notes": "Tala keeps its place when it restarts, and sets up again after a removal.",
       "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
       "link": [
         1,
