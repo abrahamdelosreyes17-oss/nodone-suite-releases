@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-11-01T11:49:04Z",
+  "published": "2026-11-01T15:09:12Z",
   "apps": [
     {
       "id": "nodone",
@@ -46,11 +46,11 @@
     },
     {
       "id": "suite",
-      "version": "1.0.8",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.8/NodOneSuite-Setup-v1.0.8.exe",
-      "sha256": "de0cf5e9718603cc7d538ad23a4b2f6a221625931352dc7e4af6cacee961223e",
-      "size": 45317726,
-      "notes": "Installing an app into a folder that needs your admin Yes works again. Problem reports now know which laptop they came from.",
+      "version": "1.0.9",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.9/NodOneSuite-Setup-v1.0.9.exe",
+      "sha256": "3584ea67a964d779dcbcf354d4ecef1ed2a6301089d3fb0cf17cf649d52d4f9c",
+      "size": 45325770,
+      "notes": "Downloads that get cut off now carry on from where they stopped.",
       "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
     }
   ]
