@@ -1,14 +1,14 @@
 {
   "suite": 1,
-  "published": "2026-11-02T11:16:48Z",
+  "published": "2026-11-02T11:36:55Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "4.0.0",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.0/NodOne-Setup-v4.0.0.exe",
-      "sha256": "53ee85c8c04dfadc0fa7e77861e68d57706420defa6e64295088641f4d2dba2b",
-      "size": 61054076,
-      "notes": "Billing by percent: set each payment's share and NodOne works out the amounts. Repeating tasks. ECC register, with the EMB clock. Reference: DENR memoranda and codes in one place. Two pages side by side. New look for Tasks and Checklist; one section open at a time in Records. Named versions for documents. Tasks linked to Gantt.",
+      "version": "4.0.1",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.1/NodOne-Setup-v4.0.1.exe",
+      "sha256": "9e42c6c38ada78c21533336d118175430be604f45942b40a20d224620f6a58c1",
+      "size": 61051794,
+      "notes": "Finished tasks stay in their group again. Completed has its own column again. Dates sit in the middle of their column; the tick no longer pushes a date aside. Project tabs show the normal pointer until you really drag one.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
