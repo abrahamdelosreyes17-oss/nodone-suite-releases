@@ -1,34 +1,34 @@
 {
   "suite": 1,
-  "published": "2026-11-02T11:36:55Z",
+  "published": "2026-11-06T19:45:13Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "4.0.1",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.1/NodOne-Setup-v4.0.1.exe",
-      "sha256": "9e42c6c38ada78c21533336d118175430be604f45942b40a20d224620f6a58c1",
-      "size": 61051794,
-      "notes": "Finished tasks stay in their group again. Completed has its own column again. Dates sit in the middle of their column; the tick no longer pushes a date aside. Project tabs show the normal pointer until you really drag one.",
+      "version": "4.0.2",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.2/NodOne-Setup-v4.0.2.exe",
+      "sha256": "69f1403facb5a469d3f8cbb23a521ff74d338388142aec48e5a8a894c83d3ca1",
+      "size": 61104416,
+      "notes": "Billing: To bill is the total fees less what is billed. Bill on: the day you plan to bill a payment; Money today on the Today page reads it. Follow-ups keep their history: a changed date leaves the old one as a done or moved line. Messages inside a communication, one after another, like an email thread. Notes: bullets, numbering and indents. Your requests shows what you sent. A repeating task's next one is linked to Gantt like the first. Windows + Left or Right docks NodOne beside Chrome, and every page fits. Fixed: a crash that said \"thread\".",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
     {
       "id": "gantt",
-      "version": "2.0.0",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v2.0.0/NodOneGantt-Setup-v2.0.0.exe",
-      "sha256": "bc766bea935204b7b7e00124fcd05b3abe22caca4b7b83c3b898e0c0c5c55c23",
-      "size": 46885345,
-      "notes": "Tasks stay linked to NodOne. Client marks: extra work or delay asked by the client. Move several bars at once; selection bar with Delete and Move to group. Options in the toolbar; milestones show their date.",
+      "version": "2.0.1",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v2.0.1/NodOneGantt-Setup-v2.0.1.exe",
+      "sha256": "e5cd5849ca6579be042ae06b645f848caaa75aee771215744f19f4fba64e6a1c",
+      "size": 46892073,
+      "notes": "Client marks reach the PDF and Excel exports. Docks beside Chrome: the Money tab, Export, More columns and headers fit when narrow. Tala can read a whole schedule to put it into a NodOne project.",
       "app_id": "{F7BEB33D-B7EC-4129-A1C2-976E9BB6EA6D}",
       "needs_link": 1
     },
     {
       "id": "tala",
-      "version": "2.0.0",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v2.0.0/NodOneTala-Setup-v2.0.0.exe",
-      "sha256": "9c5c26e3916dc0fc372b4b2032d570d4a1daf0c29e823517866f038b119c287b",
-      "size": 57178809,
-      "notes": "Every card shows a preview of the change; edit dates, days and percents before you approve. See on page: the change drawn on NodOne or Gantt before you approve. Knows unpaid invoices and billing. Works with the new ECC register, Reference, repeating tasks and the Gantt link.",
+      "version": "2.0.1",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v2.0.1/NodOneTala-Setup-v2.0.1.exe",
+      "sha256": "390836504a9c3c8c8f05cb3831d50f5e62afe99842ad3df5ff05f5c775cc4b34",
+      "size": 57248963,
+      "notes": "Opens a folder you name, after you approve its card. Tidies a folder on one card, with Undo; finds the same file kept twice. Compares a D: project folder with the project's NodOne Files. Puts a whole Gantt schedule into a NodOne project, and a hand-over carries the whole list. Knows follow-up lines, messages in a communication and Bill on dates. Tidier Excel drafts: header colours, aligned columns, filters, group rows. Home opens calm; the morning brief waits until you turn it on. Docks beside Chrome and fits when narrow. Fixed: several refusals when reading files, opening pages and drafting.",
       "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
       "link": [
         1,
@@ -37,20 +37,20 @@
     },
     {
       "id": "tools",
-      "version": "1.0.4",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.4/NodOneTools-Setup-v1.0.4.exe",
-      "sha256": "5a726c5993b6faafcd169cebaac3e218339dbe9a377fc7feb743f5e975c868e2",
-      "size": 63868122,
-      "notes": "Lot plotter shows the lot shape right away and keeps what you typed.",
+      "version": "1.0.5",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.5/NodOneTools-Setup-v1.0.5.exe",
+      "sha256": "763ca0c1647b98d7bf3ac5e2437424e173b422d94b8d0608827b0620ba26b837",
+      "size": 64363016,
+      "notes": "PDF tools open again. Report a problem, send logs and ask for something new from Settings. Docks beside Chrome with Windows + Left or Right; Home cards keep their names when docked.",
       "app_id": "{1C4FAC06-D022-4770-A85C-2A7AA30EDF78}"
     },
     {
       "id": "suite",
-      "version": "1.0.9",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.9/NodOneSuite-Setup-v1.0.9.exe",
-      "sha256": "3584ea67a964d779dcbcf354d4ecef1ed2a6301089d3fb0cf17cf649d52d4f9c",
-      "size": 45325770,
-      "notes": "Downloads that get cut off now carry on from where they stopped.",
+      "version": "1.0.10",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.10/NodOneSuite-Setup-v1.0.10.exe",
+      "sha256": "0ec6b72f4639e8c1010efaf0933a17ea530520d553cdc903980affd46cf8c56c",
+      "size": 45330624,
+      "notes": "App cards keep one size while updates come in. The Suite updates itself first, then the other apps. Docks beside Chrome with Windows + Left or Right.",
       "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
     }
   ]
