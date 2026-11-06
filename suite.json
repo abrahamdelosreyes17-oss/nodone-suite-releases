@@ -1,14 +1,14 @@
 {
   "suite": 1,
-  "published": "2026-11-06T19:45:13Z",
+  "published": "2026-11-06T23:27:37Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "4.0.2",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.2/NodOne-Setup-v4.0.2.exe",
-      "sha256": "69f1403facb5a469d3f8cbb23a521ff74d338388142aec48e5a8a894c83d3ca1",
-      "size": 61104416,
-      "notes": "Billing: To bill is the total fees less what is billed. Bill on: the day you plan to bill a payment; Money today on the Today page reads it. Follow-ups keep their history: a changed date leaves the old one as a done or moved line. Messages inside a communication, one after another, like an email thread. Notes: bullets, numbering and indents. Your requests shows what you sent. A repeating task's next one is linked to Gantt like the first. Windows + Left or Right docks NodOne beside Chrome, and every page fits. Fixed: a crash that said \"thread\".",
+      "version": "4.0.3",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.3/NodOne-Setup-v4.0.3.exe",
+      "sha256": "854f20013dd8e2757532948c2b7c990e231d89f654e9b07af3bec605fcf580c9",
+      "size": 61105231,
+      "notes": "Communications: an opened entry reads like an email thread, with one row for \"Add a message\" and \"Follow up\". Empty parts are no longer shown, and delete buttons appear only when you point at a line.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
