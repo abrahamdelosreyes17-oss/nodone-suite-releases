@@ -1,24 +1,24 @@
 {
   "suite": 1,
-  "published": "2026-11-06T23:27:37Z",
+  "published": "2026-11-07T00:15:22Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "4.0.3",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.3/NodOne-Setup-v4.0.3.exe",
-      "sha256": "854f20013dd8e2757532948c2b7c990e231d89f654e9b07af3bec605fcf580c9",
-      "size": 61105231,
-      "notes": "Communications: an opened entry reads like an email thread, with one row for \"Add a message\" and \"Follow up\". Empty parts are no longer shown, and delete buttons appear only when you point at a line.",
+      "version": "4.0.4",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.4/NodOne-Setup-v4.0.4.exe",
+      "sha256": "b225b2c8b4c2f1010527091ae0e0f091d017726f2ca5431c4aa4bcc73985b40a",
+      "size": 61106034,
+      "notes": "Sidebar: Projects and Records each open and close on their own.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
     {
       "id": "gantt",
-      "version": "2.0.1",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v2.0.1/NodOneGantt-Setup-v2.0.1.exe",
-      "sha256": "e5cd5849ca6579be042ae06b645f848caaa75aee771215744f19f4fba64e6a1c",
-      "size": 46892073,
-      "notes": "Client marks reach the PDF and Excel exports. Docks beside Chrome: the Money tab, Export, More columns and headers fit when narrow. Tala can read a whole schedule to put it into a NodOne project.",
+      "version": "2.0.2",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v2.0.2/NodOneGantt-Setup-v2.0.2.exe",
+      "sha256": "820f2a31e830f3156b889da7f06eee19c5779ed6aeae444db5f6f46834e19b22",
+      "size": 46890610,
+      "notes": "Money tab: the Track money switch sits beside the tabs, so money is easy to hide. Months on the Money tab no longer stretch across the page.",
       "app_id": "{F7BEB33D-B7EC-4129-A1C2-976E9BB6EA6D}",
       "needs_link": 1
     },
