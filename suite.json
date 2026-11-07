@@ -1,14 +1,14 @@
 {
   "suite": 1,
-  "published": "2026-11-07T00:54:55Z",
+  "published": "2026-11-07T09:41:46Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "4.0.4",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.4/NodOne-Setup-v4.0.4.exe",
-      "sha256": "b225b2c8b4c2f1010527091ae0e0f091d017726f2ca5431c4aa4bcc73985b40a",
-      "size": 61106034,
-      "notes": "Sidebar: Projects and Records each open and close on their own.",
+      "version": "4.0.5",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.5/NodOne-Setup-v4.0.5.exe",
+      "sha256": "768f8361da26d0c0e23ecbc1b7a215b965c543ba6dd05f12ffedb637fbd29259",
+      "size": 61103045,
+      "notes": "Settings is back at the right end of the sidebar, after the bell and Apps.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
