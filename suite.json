@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-11-07T00:15:22Z",
+  "published": "2026-11-07T00:54:55Z",
   "apps": [
     {
       "id": "nodone",
@@ -14,11 +14,11 @@
     },
     {
       "id": "gantt",
-      "version": "2.0.2",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v2.0.2/NodOneGantt-Setup-v2.0.2.exe",
-      "sha256": "820f2a31e830f3156b889da7f06eee19c5779ed6aeae444db5f6f46834e19b22",
-      "size": 46890610,
-      "notes": "Money tab: the Track money switch sits beside the tabs, so money is easy to hide. Months on the Money tab no longer stretch across the page.",
+      "version": "2.0.3",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v2.0.3/NodOneGantt-Setup-v2.0.3.exe",
+      "sha256": "07d0df685d93a4a6b4a3f260ab6da8e44dc50c40ea9a43adddd366f33c417c58",
+      "size": 46892738,
+      "notes": "Money tab: \"Hide money\" sits beside \"Contract and payments\". Task names use the spare width, so the money table fills the page.",
       "app_id": "{F7BEB33D-B7EC-4129-A1C2-976E9BB6EA6D}",
       "needs_link": 1
     },
