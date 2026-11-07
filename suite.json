@@ -1,6 +1,6 @@
 {
   "suite": 1,
-  "published": "2026-11-07T09:41:46Z",
+  "published": "2026-11-07T10:59:21Z",
   "apps": [
     {
       "id": "nodone",
@@ -46,11 +46,11 @@
     },
     {
       "id": "suite",
-      "version": "1.0.10",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.10/NodOneSuite-Setup-v1.0.10.exe",
-      "sha256": "0ec6b72f4639e8c1010efaf0933a17ea530520d553cdc903980affd46cf8c56c",
-      "size": 45330624,
-      "notes": "App cards keep one size while updates come in. The Suite updates itself first, then the other apps. Docks beside Chrome with Windows + Left or Right.",
+      "version": "1.0.11",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-suite-releases/releases/download/v1.0.11/NodOneSuite-Setup-v1.0.11.exe",
+      "sha256": "367d35ff5f9e7c185415410f4b0da8abe277318687bc35ec0934ee4c5c90bf24",
+      "size": 46016161,
+      "notes": "Downloads work on computers whose antivirus checks secure websites: the Suite now trusts what Windows trusts. Settings has Send logs to Abraham, so a problem can be looked into without you finding files.",
       "app_id": "{2BF70133-C73F-438C-A5F2-4E7A66FE9BC0}"
     }
   ]
