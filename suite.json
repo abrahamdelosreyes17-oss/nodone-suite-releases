@@ -1,34 +1,34 @@
 {
   "suite": 1,
-  "published": "2026-11-07T10:59:21Z",
+  "published": "2026-11-07T12:45:12Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "4.0.5",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.5/NodOne-Setup-v4.0.5.exe",
-      "sha256": "768f8361da26d0c0e23ecbc1b7a215b965c543ba6dd05f12ffedb637fbd29259",
-      "size": 61103045,
-      "notes": "Settings is back at the right end of the sidebar, after the bell and Apps.",
+      "version": "4.0.6",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.6/NodOne-Setup-v4.0.6.exe",
+      "sha256": "87e7a972af044ed04ae19e8f8a911395133aec0a91437275aa51c9fc8c3f98c1",
+      "size": 61591717,
+      "notes": "Updates download through antivirus programs that check secure websites.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
     {
       "id": "gantt",
-      "version": "2.0.3",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v2.0.3/NodOneGantt-Setup-v2.0.3.exe",
-      "sha256": "07d0df685d93a4a6b4a3f260ab6da8e44dc50c40ea9a43adddd366f33c417c58",
-      "size": 46892738,
-      "notes": "Money tab: \"Hide money\" sits beside \"Contract and payments\". Task names use the spare width, so the money table fills the page.",
+      "version": "2.0.4",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-gantt-releases/releases/download/v2.0.4/NodOneGantt-Setup-v2.0.4.exe",
+      "sha256": "85d8d4adc03bd96d20843b98889a901bf59895d5e0c642c9db27e9fcceb53518",
+      "size": 46918467,
+      "notes": "Updates download through antivirus programs that check secure websites.",
       "app_id": "{F7BEB33D-B7EC-4129-A1C2-976E9BB6EA6D}",
       "needs_link": 1
     },
     {
       "id": "tala",
-      "version": "2.0.1",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v2.0.1/NodOneTala-Setup-v2.0.1.exe",
-      "sha256": "390836504a9c3c8c8f05cb3831d50f5e62afe99842ad3df5ff05f5c775cc4b34",
-      "size": 57248963,
-      "notes": "Opens a folder you name, after you approve its card. Tidies a folder on one card, with Undo; finds the same file kept twice. Compares a D: project folder with the project's NodOne Files. Puts a whole Gantt schedule into a NodOne project, and a hand-over carries the whole list. Knows follow-up lines, messages in a communication and Bill on dates. Tidier Excel drafts: header colours, aligned columns, filters, group rows. Home opens calm; the morning brief waits until you turn it on. Docks beside Chrome and fits when narrow. Fixed: several refusals when reading files, opening pages and drafting.",
+      "version": "2.0.2",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v2.0.2/NodOneTala-Setup-v2.0.2.exe",
+      "sha256": "4041153cdeee62213aa052e6a8795d0628cc9f1c544e6b06d8120106013e1994",
+      "size": 57257509,
+      "notes": "When you skip a day, the rest of the week's limit is shared over the days left. Deep (Opus) for hard questions, while Abraham has it switched on. Connects through antivirus programs that check secure websites.",
       "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
       "link": [
         1,
@@ -37,11 +37,11 @@
     },
     {
       "id": "tools",
-      "version": "1.0.5",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.5/NodOneTools-Setup-v1.0.5.exe",
-      "sha256": "763ca0c1647b98d7bf3ac5e2437424e173b422d94b8d0608827b0620ba26b837",
-      "size": 64363016,
-      "notes": "PDF tools open again. Report a problem, send logs and ask for something new from Settings. Docks beside Chrome with Windows + Left or Right; Home cards keep their names when docked.",
+      "version": "1.0.6",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tools-releases/releases/download/v1.0.6/NodOneTools-Setup-v1.0.6.exe",
+      "sha256": "8932e64308842cdaf74080ba79c5379db9c5b50eb4e019cef87c30c7569ce974",
+      "size": 64385614,
+      "notes": "Updates download through antivirus programs that check secure websites.",
       "app_id": "{1C4FAC06-D022-4770-A85C-2A7AA30EDF78}"
     },
     {
