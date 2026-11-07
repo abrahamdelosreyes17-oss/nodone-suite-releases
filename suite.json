@@ -1,14 +1,14 @@
 {
   "suite": 1,
-  "published": "2026-11-07T12:45:12Z",
+  "published": "2026-11-07T16:23:07Z",
   "apps": [
     {
       "id": "nodone",
-      "version": "4.0.6",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.6/NodOne-Setup-v4.0.6.exe",
-      "sha256": "87e7a972af044ed04ae19e8f8a911395133aec0a91437275aa51c9fc8c3f98c1",
-      "size": 61591717,
-      "notes": "Updates download through antivirus programs that check secure websites.",
+      "version": "4.0.7",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-releases/releases/download/v4.0.7/NodOne-Setup-v4.0.7.exe",
+      "sha256": "0fe505a35aed930e2c23b7adf2e301030a49a15a5ce79a6c65d29ae9ae0c1eb6",
+      "size": 61601765,
+      "notes": "A repeating task shows again on the day it comes round. Follow-ups show in the calendar and under Late on the dashboard. Wider forms; tidier title buttons and tab counts.",
       "app_id": "{9A2D7E4F-3B1C-4D8A-AE52-F0C8D1B6E923}",
       "needs_link": 1
     },
@@ -24,11 +24,11 @@
     },
     {
       "id": "tala",
-      "version": "2.0.2",
-      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v2.0.2/NodOneTala-Setup-v2.0.2.exe",
-      "sha256": "4041153cdeee62213aa052e6a8795d0628cc9f1c544e6b06d8120106013e1994",
-      "size": 57257509,
-      "notes": "When you skip a day, the rest of the week's limit is shared over the days left. Deep (Opus) for hard questions, while Abraham has it switched on. Connects through antivirus programs that check secure websites.",
+      "version": "2.0.3",
+      "installer": "https://github.com/abrahamdelosreyes17-oss/nodone-tala-releases/releases/download/v2.0.3/NodOneTala-Setup-v2.0.3.exe",
+      "sha256": "28e4a7e7c9708cbe855c1054dd1b3f5ef982be37e1305c8398b61504a1b733bd",
+      "size": 57300795,
+      "notes": "PDF pages are given both ways, as p. 12 (PDF p. 16), and the link opens the right page. Tala can download a document it found: you approve a card, and Windows Defender checks it first. Make a Gantt schedule from a NodOne project: its tasks go with it. Reshape or merge pasted text without code (Text steps). Deep comes back on without restarting Tala; notes to Abraham go whole. Switching between Quick and Careful in a short chat no longer pays for a summary first.",
       "app_id": "{82EA4E0F-5467-458F-AF0F-251C6D03B85F}",
       "link": [
         1,
